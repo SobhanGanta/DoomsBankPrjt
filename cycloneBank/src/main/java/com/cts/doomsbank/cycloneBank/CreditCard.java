@@ -8,5 +8,6 @@ public class CreditCard {
 	public void getCardId(){
 		System.out.println("656788");
 		System.out.println("657489");
+		System.out.println("8678");
 	}
 }
